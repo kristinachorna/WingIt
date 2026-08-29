@@ -1,7 +1,6 @@
 # WingIt
 
-A minimal, private, camera-first photo messaging app inspired by the early philosophy
-of Snapchat (2011–2013). No feed, no algorithm, no likes, no ads, no public metrics —
+A minimal, private, camera-first photo messaging app. No feed, no algorithm, no likes, no ads, no public metrics —
 just: open the app, take a photo, send it to a friend.
 
 > This is a personal/portfolio project built to learn full-stack mobile development
